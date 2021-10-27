@@ -4,7 +4,6 @@ objects = [];
 status = "";
 
 function preload() {
-  img = loadImage('dog_cat.jpg');
   alarm= loadSound("alarm.mp3")
 }
 
